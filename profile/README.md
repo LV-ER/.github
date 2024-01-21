@@ -2,9 +2,16 @@
 
 A research team at [Learning and Vision Lab](http://lv-nus.org/), National University of Singapore.
 <div align="center">
-  <img src="https://github.com/horseee/Diffusion_DeepCache/blob/master/static/images/example_compress.gif" width="43%" ></img>
-  <img src="https://github.com/czg1225/SlimSAM/blob/master/images/paper/everything.PNG" width="44%" ></img>
+  <img src="https://github.com/horseee/Diffusion_DeepCache/blob/master/static/images/example_compress.gif" width="48%" ></img>
+  <img src="https://github.com/czg1225/SlimSAM/blob/master/images/paper/everything.PNG" width="48%" ></img>
   <br>
+  <div align="center">
+  <img src="https://github.com/horseee/DeepCache/raw/master/assets/svd.gif" width="96%" ></img>
+  <br>
+  <em>
+      (1.7x acceleration of SVD-XT) 
+  </em>
+</div>
 </div>
 
 
