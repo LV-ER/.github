@@ -9,7 +9,7 @@ A research team at [Learning and Vision Lab](http://lv-nus.org/), National Unive
   <img src="https://github.com/horseee/DeepCache/raw/master/assets/svd.gif" width="96%" ></img>
   <br>
   <em>
-      (1.7x acceleration of SVD-XT) 
+      (1.7x acceleration of Stable Video Diffusion-XT) 
   </em>
 </div>
 </div>
