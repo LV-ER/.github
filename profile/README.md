@@ -12,10 +12,10 @@ A research team at [Learning and Vision Lab](http://lv-nus.org/), National Unive
 
 ## Papers
 - [[CVPR'23] DepGraph: Towards Any Structural Pruning](#-depgraph-towards-any-structural-pruning)  [![Star](https://img.shields.io/github/stars/vainf/torch-pruning.svg?style=social&label=Star)](https://github.com/vainf/torch-pruning)
-- [[NeurIPS'23] LLM-Pruner: On the Structural Pruning of Large Language Models](#) [![Star](https://img.shields.io/github/stars/horseee/LLM-Pruner.svg?style=social&label=Star)](https://github.com/horseee/LLM-Pruner)
-- [[NeurIPS'23] Structural Pruning for Diffusion Models](#) [![Star](https://img.shields.io/github/stars/VainF/Diff-Pruning.svg?style=social&label=Star)](https://github.com/VainF/Diff-Pruning)
-- [DeepCache: Accelerating Diffusion Models for Free](#-deepcache) [![Star](https://img.shields.io/github/stars/horseee/DeepCache.svg?style=social&label=Star)](https://github.com/horseee/DeepCache)
-- [SlimSAM: 0.1% Data Makes Segment Anything Slim](#) [![Star](https://img.shields.io/github/stars/czg1225/SlimSAM.svg?style=social&label=Star)](https://github.com/czg1225/SlimSAM)
+- [[NeurIPS'23] LLM-Pruner: On the Structural Pruning of Large Language Models](#-llm-pruner-on-the-structural-pruning-of-large-language-models) [![Star](https://img.shields.io/github/stars/horseee/LLM-Pruner.svg?style=social&label=Star)](https://github.com/horseee/LLM-Pruner)
+- [[NeurIPS'23] Structural Pruning for Diffusion Models](#-structural-pruning-for-diffusion-models) [![Star](https://img.shields.io/github/stars/VainF/Diff-Pruning.svg?style=social&label=Star)](https://github.com/VainF/Diff-Pruning)
+- [DeepCache: Accelerating Diffusion Models for Free](#-deepcache-accelerating-diffusion-models-for-free) [![Star](https://img.shields.io/github/stars/horseee/DeepCache.svg?style=social&label=Star)](https://github.com/horseee/DeepCache)
+- [SlimSAM: 0.1% Data Makes Segment Anything Slim](#-slimsam-01-data-makes-segment-anything-slim) [![Star](https://img.shields.io/github/stars/czg1225/SlimSAM.svg?style=social&label=Star)](https://github.com/czg1225/SlimSAM)
   
 ## 
 
