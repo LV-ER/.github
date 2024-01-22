@@ -9,7 +9,7 @@ A project page for efficient deep learning at [Learning and Vision Lab](http://l
   <img src="https://github.com/horseee/DeepCache/raw/master/assets/svd.gif" width="96%" ></img>
   <br>
   <em>
-      (1.7x acceleration of Stable Video Diffusion-XT with DeepCache) 
+      (1.7x training-free acceleration of Stable Video Diffusion-XT with DeepCache) 
   </em>
 </div>
 </div>
