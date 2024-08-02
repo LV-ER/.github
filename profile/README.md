@@ -1,6 +1,6 @@
 <h1 align="center">Learning and Vision Efficiency Research</h1>
 
-A project page for efficient deep learning at [Learning and Vision Lab](http://lv-nus.org/), National University of Singapore.
+Introduction for efficient deep learning research at [Learning and Vision Lab](http://lv-nus.org/), National University of Singapore.
 <div align="center">
   <img src="https://github.com/horseee/Diffusion_DeepCache/blob/master/static/images/example_compress.gif" width="48%" ></img>
   <img src="https://github.com/czg1225/SlimSAM/blob/master/images/paper/everything.PNG" width="48%" ></img>
