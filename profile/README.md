@@ -21,9 +21,9 @@ Introduction for efficient deep learning research at [Learning and Vision Lab](h
 - [[NeurIPS'23] Structural Pruning for Diffusion Models](#-structural-pruning-for-diffusion-models) [![Star](https://img.shields.io/github/stars/VainF/Diff-Pruning.svg?style=social&label=Star)](https://github.com/VainF/Diff-Pruning)
 - [[CVPR'24] DeepCache: Accelerating Diffusion Models for Free](#-deepcache-accelerating-diffusion-models-for-free) [![Star](https://img.shields.io/github/stars/horseee/DeepCache.svg?style=social&label=Star)](https://github.com/horseee/DeepCache)
 - [[ECCV'24] Isomorphic Pruning for Vision Models](#-isomorphic-pruning-for-vision-models) [![Star](https://img.shields.io/github/stars/VainF/Isomorphic-Pruning.svg?style=social&label=Star)](https://github.com/VainF/Isomorphic-Pruning)
-- [SlimSAM: 0.1% Data Makes Segment Anything Slim](#-slimsam-01-data-makes-segment-anything-slim) [![Star](https://img.shields.io/github/stars/czg1225/SlimSAM.svg?style=social&label=Star)](https://github.com/czg1225/SlimSAM)
-- [AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising](#-asyncdiff-parallelizing-diffusion-models-by-asynchronous-denoising) [![Star](https://img.shields.io/github/stars/czg1225/AsyncDiff.svg?style=social&label=Star)](https://github.com/czg1225/AsyncDiff)
-- [Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching]() [![Star](https://img.shields.io/github/stars/horseee/learning-to-cache.svg?style=social&label=Star)](https://github.com/horseee/learning-to-cache)
+- [[NeurIPS'24] SlimSAM: 0.1% Data Makes Segment Anything Slim](#-slimsam-01-data-makes-segment-anything-slim) [![Star](https://img.shields.io/github/stars/czg1225/SlimSAM.svg?style=social&label=Star)](https://github.com/czg1225/SlimSAM)
+- [[NeurIPS'24] AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising](#-asyncdiff-parallelizing-diffusion-models-by-asynchronous-denoising) [![Star](https://img.shields.io/github/stars/czg1225/AsyncDiff.svg?style=social&label=Star)](https://github.com/czg1225/AsyncDiff)
+- [[NeurIPS'24] Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching]() [![Star](https://img.shields.io/github/stars/horseee/learning-to-cache.svg?style=social&label=Star)](https://github.com/horseee/learning-to-cache)
 
 ## 
 
